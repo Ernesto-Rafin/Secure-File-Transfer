@@ -1,0 +1,14 @@
+C:\Users\rafin004\Desktop\SecureFileTransferProject\Server\bin\Debug\net8.0\Server.exe
+C:\Users\rafin004\Desktop\SecureFileTransferProject\Server\bin\Debug\net8.0\Server.deps.json
+C:\Users\rafin004\Desktop\SecureFileTransferProject\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+C:\Users\rafin004\Desktop\SecureFileTransferProject\Server\bin\Debug\net8.0\Server.dll
+C:\Users\rafin004\Desktop\SecureFileTransferProject\Server\bin\Debug\net8.0\Server.pdb
+C:\Users\rafin004\Desktop\SecureFileTransferProject\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafin004\Desktop\SecureFileTransferProject\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+C:\Users\rafin004\Desktop\SecureFileTransferProject\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+C:\Users\rafin004\Desktop\SecureFileTransferProject\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\rafin004\Desktop\SecureFileTransferProject\Server\obj\Debug\net8.0\Server.dll
+C:\Users\rafin004\Desktop\SecureFileTransferProject\Server\obj\Debug\net8.0\refint\Server.dll
+C:\Users\rafin004\Desktop\SecureFileTransferProject\Server\obj\Debug\net8.0\Server.pdb
+C:\Users\rafin004\Desktop\SecureFileTransferProject\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+C:\Users\rafin004\Desktop\SecureFileTransferProject\Server\obj\Debug\net8.0\ref\Server.dll
